@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The judgment of Mr. Baxter concerning ceremonies and conformity in the points of difference betwixt the Church of England and the dissenters novv published in vindication of the moderate and learned part of the Presbyterians, to let the vvorld see that they are not so irreconcilable to the discipline of the Church of England, as some people vvould have us believe.</title>
+            <author>Baxter, Richard, 1615-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76182</idno>
+            <idno type="STC">Wing B1291</idno>
+            <idno type="STC">ESTC R42756</idno>
+            <idno type="EEBO-CITATION">38875712</idno>
+            <idno type="OCLC">ocm 38875712</idno>
+            <idno type="VID">152198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152198)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2283:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The judgment of Mr. Baxter concerning ceremonies and conformity in the points of difference betwixt the Church of England and the dissenters novv published in vindication of the moderate and learned part of the Presbyterians, to let the vvorld see that they are not so irreconcilable to the discipline of the Church of England, as some people vvould have us believe.</title>
+                  <author>Baxter, Richard, 1615-1691.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London, and Re-printed at Edinburgh :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed and Entred according to Order."</note>
+                  <note>Imperfect: stained, and with print show-through.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+               <term>Presbyterianism --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152198:1" rendition="simple:additions"/>
+            <head>The Judgment of Mr. BAXTER, concerning Ceremonies and Con<g ref="char:EOLhyphen"/>formity in the Points in Difference betwixt the Church of <hi>England,</hi> and the Diſſenters.</head>
+            <p>Novv Published in Vindication of the Moderate and Learned Part of the Presbyteri<g ref="char:EOLhyphen"/>ans, to let the VVorld ſee that they are not ſo irreconcilable to the Diſcipline of the Church of <hi>England,</hi> as ſome People vvould have us believe.</p>
+            <p>Licenſed and Entered according to Order</p>
+            <div type="part">
+               <head>The Judgment of <hi>Mr. Baxter,</hi> concerning <hi>Ceremonies</hi> and <hi>Conformity.</hi>
+               </head>
+               <p>
+                  <hi>Diſp.</hi> 4 <hi>p.</hi> 361. <seg rend="decorInit">T</seg>Hoſe Modes or Circumſtances of Worship, which are neceſſary <hi>in genere,</hi> but left undetermined by God <hi>in ſpecie,</hi> are left by God to human pruden<g ref="char:EOLhyphen"/>tial Determination; (elſe an Impoſſibility would be neceſſary) But many ſuch there are, that are neceſſary <hi>in genere,</hi> but left undetermined of God <hi>in ſpecie;</hi> therefore many ſuch are left to human prudential Determination.</p>
+               <p>
+                  <hi>Diſp</hi> 5. <hi>p.</hi> 400. <hi>Sect.</hi> 5. Yet it is in the power of man to determine of ſuch Modes and Circumſtances as are neceſſary to the performance of that Wor<g ref="char:EOLhyphen"/>ship which God hath inſtituted in his Word; and therefore lawful Gover<g ref="char:EOLhyphen"/>nors may in ſuch caſes bind us by their Command.</p>
+               <p>
+                  <hi>P.</hi> 400.1. It is left to human Determination, what Places the Pub<g ref="char:EOLhyphen"/>lick Aſſemblies shall be held in.</p>
+               <p>
+                  <hi>P.</hi> 401.2. It is left to man to determine of the Time of Holy Duty, except only where God hath determined to the contrary.</p>
+               <p>
+                  <hi>Ibid.</hi> 3 It is left to the determination of human Prudence, what Uten<g ref="char:EOLhyphen"/>ſils to employ about the Publick Worship of God.</p>
+               <div type="section">
+                  <head>Here therefore vve muſt conclude.</head>
+                  <p>
+                     <hi>P.</hi> 423.1. That every miſordering of ſuch great Affairs is the ſin of them that do it.</p>
+                  <p n="2">2. But yet that the Subject is not exempted from Obedience, by every ſuch miſtake of the Governour, but by ſome he is.</p>
+                  <p>
+                     <hi>Ibid. Sect.</hi> 67. If the miſchuſing ſome Circumſtances by Church Go<g ref="char:EOLhyphen"/>vernours, be but an inconvenience, and do deſtroy the ordinance it ſelf, or fruſtrate the ends of it, we are to obey.
+<list>
+                        <item>1. He is the Judge of his own work, not we.</item>
+                        <item>2. The thing is not ſinful, tho' inconveni<g ref="char:EOLhyphen"/>ent.</item>
+                        <item>3. Obedience is commanded to our Lawful Governours.</item>
+                     </list>
+                  </p>
+                  <pb n="2" facs="tcp:152198:2"/>
+                  <p> 
+                     <hi>P.</hi> 424. We muſt obey in all things Lawful.</p>
+                  <p>And when we do obey in caſe of miſcommanding, it is not a doing of evil, that good may come of it, as ſome do miſconceive; but it is only a ſubmitting to that which is ill commanded, but no evil in him that doth ſubmit; it is the determiner that is the cauſe of the inconve<g ref="char:EOLhyphen"/>nience, and not the obeyer: Nor is it inconvenient for to obey, tho' it be worſe perhaps to him that commandeth. While he ſinneth in com<g ref="char:EOLhyphen"/>manding, he may make it my duty to obey.</p>
+                  <p>
+                     <hi>P.</hi> 396 <hi>Sect.</hi> 6. <hi>diſt,</hi> 4. We muſt diſtinguish between Ceremonies impoſed by a Lawful Magiſtrate or Church-Governours, and ſuch as are impoſed by Uſurpers, or men without Authority.</p>
+                  <p>
+                     <hi>P.</hi> 398. <hi>Sect.</hi> 25. <hi>prop.</hi> 12. It may be very ſinful to command ſome Ceremonies, which may lawfully, yea, muſt in duty be uſed by the Subject, when they are commanded.</p>
+                  <p>
+                     <hi>Sect.</hi> 27. <hi>prop</hi> 14. Yet certain things which are commonly called Ceremonies, may lawfully be uſed in the Church, upon human Im<g ref="char:EOLhyphen"/>poſition; and when it is not againſt the Law of God, no perſon should diſobey the commands of their Lawful Governours in ſuch things.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of ſet forms, and the Book of Common-Prayer.</head>
+               <p>
+                  <hi>Diſp,</hi> 4. <hi>p.</hi> 358, <hi>Prop,</hi> 1. A ſtinted Liturgy is in it ſelf Lawful.</p>
+               <p>A ſtinted Liturgy in ſome parts of publick Holy Service, is or<g ref="char:EOLhyphen"/>dinarly neceſſary.</p>
+               <p n="3">3. In the parts where it is not of neceſſity, it may not only be ſubmit<g ref="char:EOLhyphen"/>ted unto, but deſired, when the peace of the Church requires,</p>
+               <p>
+                  <hi>P.</hi> 359. <hi>Prop</hi> 7. The ſafeſt way of compoſing ſuch a publick form, is to take it all, for matter and words, out of the Holy Scripture.</p>
+               <p n="8">8. Yet is not this of ſuch neceſſity, but that we may joine in it, or uſe it, if the form of words be not from Scripture.</p>
+               <p>
+                  <label>Prop 1.</label> A ſtinted Liturgy is in it ſelf Lawful; and it is thus proved.</p>
+               <p>
+                  <label>Arg. 1,</label> That which is not directly, nor conſequentially forbidden by God, remaineth lawful; a ſtint<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Liturgie, is not directly, or conſequen<g ref="char:EOLhyphen"/>tially forbidden of God, therefore it remaineth Lawful.</p>
+               <p>The major is undoubted, becauſe nothing but a prohibition can make a thing unlawful: <hi>Sin is the tranſgreſsion of a Lavv; vvhen there is no Lavv, there is no Tranſgreſſion.</hi> And yet <hi>I</hi> have heard very reverend Men anſwer this, <hi>That it is enough that it is not commanded though not forbidden</hi> which is plainly to deny both Scripture and Civil Principles.</p>
+               <p>
+                  <hi>P.</hi> 361. Now for the minor, That a ſtinted Liturgy is not forbidden, we need no other proof than that no prohibition can be produced.</p>
+               <p>
+                  <hi>P:</hi> 364. <hi>Arg.</hi> 6 If it be lawful for the People to uſe a ſtinted form of words, in publick Prayer, then is it in it ſelf lawful for the Paſtors; but it is Lawful for the People; for the Paſtor's Prayer (which
+<pb n="3" facs="tcp:152198:2"/>they muſt pray over with him, and not only hear it) is a ſtinted Form to them, even as much as if he had learnt it out of a Book; they are to follow him in his method and words, as if it were a Book-Prayer.</p>
+               <p>
+                  <label>Arg. 7.</label> It is lawful to uſe a Form in Preaching, therefore a ſtin<g ref="char:EOLhyphen"/>ted Liturgy is lawful.</p>
+               <list>
+                  <item>1. Becauſe Preaching is a part of that Liturgy.</item>
+                  <item>2. Becauſe the Reaſon is the ſame for Prayer as for that, in the main.</item>
+               </list>
+               <p>
+                  <label>Argument 8.</label> That which hath been the Practice of the Church in Scripture-times, and down to this day, and is yet the practice of al<g ref="char:EOLhyphen"/>moſt all the Churches of Chriſt on Earth, is not like to be unlavvful but ſuch is the uſe of ſome ſtinted Forms of Publick Service. <hi>There fore &amp;c.</hi> That It vvas ſo in the <hi>Jevvs</hi> Church, and approved by Chriſt I have shevved; That it hath been of ancient uſe in the Church ſince Chriſt, as it is at this day in uſe in <hi>Affrick, Aſia, Europe;</hi> Even among the Reformed Churches in <hi>France, Hòlland, Geneva,</hi> and is ſo vvell knovvn, that <hi>I</hi> think I need not ſtand to prove it: yea thoſe fevv that ſeem to diſuse it, do yet uſe it, in Pſalms and other parts of Worship.</p>
+               <p>
+                  <hi>P.</hi> 421. As for the Common-Prayer it ſelf, I never rejected it becauſe it was a forme we thought ſimply unlawful, becauſe it was ſuch a form; but have made uſe of it, and would do again in the like caſe.</p>
+            </div>
+            <div type="part">
+               <head>Of Ceremonies.</head>
+               <p>The Ceremonies controverted amongſt us, vvere, ſpecially the Sur<g ref="char:EOLhyphen"/>plice, the Geſture of Kneeling in receiving the Lords Supper, the Ring in Marriage, Laying the hand upon a Book in taking an Oath, the Organs; and Church-Muſick, Holi-days, Altars Rails, and the Croſs in Baptiſm.</p>
+            </div>
+            <div type="part">
+               <head>Of the Surplice.</head>
+               <p>
+                  <hi>P.</hi> 409 Some decent Habit is neceſſary; either the Magiſtrate, or the Miniſter himſelf, or the Aſſociated Paſtors muſt determine vvhat; I think neither Magiſtrate nor Synod should do any more then hinder undecen<g ref="char:EOLhyphen"/>cy; but yet if they do more, and tye all to one habit (and ſuppoſe it vvere an undecent habit) yet this is but an imprudent uſe of power; it is a thing vvithin the Magiſtrates reach, he doth not an <hi>aliene</hi> work, but his ovvn vvork amiſs; therefore the thing in it ſelf being <hi>lavvful, I</hi> vvould obey him, and uſe that Garment, if I could not be diſpenſed vvith, yea though, ſecondarily, vvhiteneſs be to ſignify Purity and ſo it be made a teaching ſign, yet vvould <hi>I</hi> obey.</p>
+            </div>
+            <div type="part">
+               <head>Of kneeling at the Sacrament.</head>
+               <p>
+                  <hi>P.</hi> 411. But yet as ſinful as this Geſture vvas impoſed, for my part I did obey the impoſers, and vvould do, if it vvere to be done again: rather than diſturb the peace of the Church, or be deprived of its Communion; for God having made ſome Geſture neceſſary, and confin<g ref="char:EOLhyphen"/>ed me to none, but left it to human determination, I shall ſubmit to Magiſtrates in their proper work, even vvhen they miſs it in the manner;
+<pb n="4" facs="tcp:152198:3"/>I am not ſure that Chriſt intended the example of himſelf, and his A<g ref="char:EOLhyphen"/>poſtles, as obligatory to us that shall ſucced; I am ſure it proves <hi>ſitting lavvful,</hi> but I am not ſure that it proves it neceſſary, (tho' very con<g ref="char:EOLhyphen"/>venient) but I am ſure he hath <hi>commanded me obedience and peace.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the Ring in Marriage.</head>
+               <p>
+                  <hi>P.</hi> 401. As for the Ring in Marriage, I ſee no reaſon to ſcruple the lawfulneſs of it, for tho' the Papiſts make a-Sacrament of Marriage. yet we have no reaſon to take it for an Ordinance of Divine Worship, any more than the ſolemnising of a Contract between a Prince and People; all things are ſanctified and pure to the pure.</p>
+            </div>
+            <div type="part">
+               <head>Of Organs and Church Muſick.</head>
+               <p>P. 412. As for Organs, or other Inſtruments of Muſick in God's Worship, they being a help partly Natural, and partly Artificial, to the exhilerating of the Spirits, for the praiſe of God, I know no Argument to prove them ſimply unlawful, but what would prove a Cup of Wine unlawful, or the tune and Meeter, and Melody of ſing<g ref="char:EOLhyphen"/>ing, unlawful.</p>
+            </div>
+            <div type="part">
+               <head>Of Holy-dayes.</head>
+               <p>
+                  <hi>P.</hi> 412.413. Nor for my part do I make any ſcruple to keep a day in Remembrance of any Eminent Servant of Chriſt, or Martyr, to praiſe God for their Doctrine, or Honour their Memorial.</p>
+               <p>But the hardeſt part of the Queſtion is, Whether it be lawful to keep days in Ce<g ref="char:EOLhyphen"/>lebrating the Memorial of Chriſt's Nativity, Circumciſion, Faſting, Transfiguration, Aſcenſion, and ſuch like.</p>
+               <p>
+                  <hi>P.</hi> 416. And yet for all this, I am reſolved, If I live where ſuch Holy-Days as theſe are obſerved, to cenſure no man for obſerving them. nor would I deny them Liber<g ref="char:EOLhyphen"/>ty to follow their Judgment, if I had the power of their Liberties, provided they uſe not reproach and violence to others, and ſeek not to deprive them of their Liberties,</p>
+               <p>
+                  <hi>P.</hi> 417. Yea more, I would not only give men their Liberty in this, but if I lived under a Government that peremptorily commanded it, I would obſerve the outward reſt of ſuch a Holy-day, and I would preach on it; and join with the Aſſemblies in God's VVorship on it: Yea, I would thus obſerve the day, rather than offend a weak Brother, or hinder any man's Salvation, much more rather than I would make any Diviſion in the Church.</p>
+            </div>
+            <div type="part">
+               <head>Of Altars and Rails.</head>
+               <p>
+                  <hi>Ibid.</hi> As for the next Ceremony, the Name and Form of an Altar; no doubt but it is a thing indifferent, whether the Table ſtand this way or that way; and the Pri<g ref="char:EOLhyphen"/>mitive Churches commonly uſed the Names or Sacrifice, and Altar, and Prieſt, and I think lawfully; for my part I shall not be he that shall condemn them.</p>
+               <p>
+                  <hi>Ibid.</hi> I conceive that the diſlike of theſe things in <hi>England</hi> (the Form and Name of an Altar and Rails about it) was not as if they were ſimply evil.</p>
+               <p>
+                  <hi>P.</hi> 401, 402. VVhether we shall receive the Lords Supper at a Table, or in our Seats; or whether the Table shall be of VVood or Stone; whether it shall be Round, Long, or Square; whether it shall ſtand in the <hi>Eaſt</hi> or <hi>VVeſt</hi> end of the Temple, or in the middle; whether it shall have Rails or no Rails, all theſe are left to humane Pru<g ref="char:EOLhyphen"/>dence.</p>
+            </div>
+            <div type="part">
+               <head>Of the Croſs in Baptiſm.</head>
+               <p>P. 417. But of all our Ceremonies, there is none that <hi>I</hi> have more ſuſpected to be ſimply unlawful, than the Croſs in Baptiſm.</p>
+               <p>P. 418. Yet <hi>I</hi> dare not peremptorily ſay, That it is unlawful, nor will <hi>I</hi> condemn either Ancients or Moderns that uſe it; nor will <hi>I</hi> make any diſturbance in the Church about it, more than my own forbearance vvill make.</p>
+               <p>I preſume not to cenſure them that judge it lavvful, but only give the Reaſons that make me doubt, and rather think it to be unlavvful, tho' ſtill with a ſuſpicion of my own Underſtanding, and a love and honour to Diſſenters.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
